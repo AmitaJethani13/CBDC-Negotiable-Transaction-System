@@ -47,6 +47,11 @@ This project demonstrates how blockchain technology can improve the efficiency, 
 Sender → Smart Contract Deployment → Contract Validation → Consensus Verification → CBDC Transfer → Audit Trail
 
 ---
+## Project Documentation
+
+Detailed execution screenshots, test cases, and result analysis can be found in:
+
+[CBDC_Negotiable_Transaction_Results.pdf](CBDC_Negotiable_Transaction_Results.pdf)
 
 ## Test Cases
 
